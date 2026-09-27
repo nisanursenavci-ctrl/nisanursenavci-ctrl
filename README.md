@@ -1,16 +1,28 @@
-## Hi there 👋
+# Merhaba, ben Nisanur Şenavcı
 
-<!--
-**nisanursenavci-ctrl/nisanursenavci-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Projeler geliştirerek yazılım öğreniyorum.**
 
-Here are some ideas to get you started:
+Yazılımı kendi kendime öğreniyor, öğrendiklerimi gerçek ihtiyaçlara yönelik uygulamalarla pratiğe döküyorum. Bu profil, ürettiklerimi ve zaman içindeki gelişimimi paylaştığım kişisel portföyüm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projelerim
+
+### VIENN CRM
+
+Gayrimenkul ekiplerinin müşteri, portföy, ilan ve takip süreçlerini bir araya getiren web uygulaması.
+
+- Müşteri kayıtları, görüşme geçmişi ve takipler
+- Portföy ve ilan yönetimi
+- Takvim, görevler ve hatırlatmalar
+- Kullanıcı rolleri ve erişim izinleri
+
+**Projede kullanılan teknolojiler:** Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
+
+*Kaynak kodu özel depoda tutuluyor; burada projenin genel tanıtımını paylaşıyorum.*
+
+## Öğrenme alanlarım
+
+Projelerim üzerinden web arayüzleri, veritabanları, kullanıcı yetkilendirme ve Git ile sürüm takibi konularında kendimi geliştiriyorum.
+
+## Yaklaşımım
+
+Bir ihtiyacı anlamak, küçük adımlarla çözüm üretmek ve deneyerek geliştirmek. Tamamladığım çalışmaların yanında öğrenme sürecime de bu profilde yer veriyorum.
